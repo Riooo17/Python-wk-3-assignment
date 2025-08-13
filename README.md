@@ -1,0 +1,1 @@
+A Python function that calculates the final price after applying a conditional discount. If the discount is 20% or higher, it applies the discount; otherwise, it returns the original price. Includes user input prompts and formatted output.
